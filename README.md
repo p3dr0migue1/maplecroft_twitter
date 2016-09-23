@@ -7,7 +7,7 @@ Maplecroft Twitter is a simple Flask application that displays the last 10 tweet
 
 Clone this repo
 ```
-git clone
+git clone git@github.com:p3dr0migue1/maplecroft_twitter.git
 ```
 
 Install the requirements
