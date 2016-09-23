@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -64.020545, 
+                    -34.845871
+                ]
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -64.020545, 
+                    -34.845871
+                ]
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    101.672664, 
+                    34.911287
+                ]
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    101.672664, 
+                    34.911287
+                ]
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    96.470353, 
+                    21.191093
+                ]
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    100.853755, 
+                    15.35453
+                ]
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    79.685401, 
+                    23.078953
+                ]
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    69.642966, 
+                    29.899236
+                ]
+            }, 
+            "type": "Feature"
+        }
+    ]
+}
